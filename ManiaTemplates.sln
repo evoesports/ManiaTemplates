@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManiaTemplates", "src/Mania
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManiaTemplates.Tests", "tests\ManiaTemplates.Tests\ManiaTemplates.Tests.csproj", "{FD08D40D-341A-46C1-BD63-56D60121F664}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FC0F3D8D-EBBF-41B1-9140-6F83BE74FC97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FD08D40D-341A-46C1-BD63-56D60121F664}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD08D40D-341A-46C1-BD63-56D60121F664}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD08D40D-341A-46C1-BD63-56D60121F664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0F3D8D-EBBF-41B1-9140-6F83BE74FC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0F3D8D-EBBF-41B1-9140-6F83BE74FC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0F3D8D-EBBF-41B1-9140-6F83BE74FC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0F3D8D-EBBF-41B1-9140-6F83BE74FC97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
